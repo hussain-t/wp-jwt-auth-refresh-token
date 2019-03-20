@@ -6,7 +6,7 @@ use \Firebase\JWT\JWT;
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       https://enriquechavez.co
+ * @link       https://github.com/
  * @since      1.0.0
  */
 
@@ -16,7 +16,7 @@ use \Firebase\JWT\JWT;
  * Defines the plugin name, version, and two examples hooks for how to
  * enqueue the admin-specific stylesheet and JavaScript.
  *
- * @author     Enrique Chavez <noone@tmeister.net>
+ * @author     Hussain Thajutheen <@hussain_thaj>
  */
 class Jwt_Auth__Extention_Public
 {
